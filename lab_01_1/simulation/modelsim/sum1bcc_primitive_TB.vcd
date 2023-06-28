@@ -1,0 +1,13 @@
+$date
+	Tue Jun 27 19:20:59 2023
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+$enddefinitions $end
+#0
+$dumpvars
+$end

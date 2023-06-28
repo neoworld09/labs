@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1/simulation/modelsim
+vsum1bcc_primitive
+Z1 !s110 1687911656
+!i10b 1
+!s100 7310l@Xno`1W@J4XP7:2e3
+IZfz:`hBK?LZSNi7gWKHND2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1687905614
+8C:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1/sum1bcc_primitive.v
+FC:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1/sum1bcc_primitive.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1687911656.000000
+!s107 C:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1/sum1bcc_primitive.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1|C:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1/sum1bcc_primitive.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1
+Z7 tCvgOpt 0
+vsum1bcc_primitive_TB
+R1
+!i10b 1
+!s100 `3e@lM[AO32549mJ]=Bo:3
+IYa>nCd`MFgG3Uz_hTXo<N0
+R2
+R0
+w1687911228
+8C:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1/sum1bcc_primitive_TB.v
+FC:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1/sum1bcc_primitive_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1/sum1bcc_primitive_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1|C:/Users/Neo/Documents/GitHub/lab01-2023-1-Minitoti/lab_01_1/sum1bcc_primitive_TB.v|
+!i113 1
+R5
+R6
+R7
+nsum1bcc_primitive_@t@b
